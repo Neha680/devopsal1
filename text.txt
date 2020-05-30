@@ -1,0 +1,2 @@
+yum install https://files.pythonhosted.org/packages/86/35/11f5eef2c0c67c4da75ad9b66e6020bdd9bf610035ddf7bdc7c92c2109d0/pandas-1.0.4-cp36-cp36m-manylinux1_i686.whl
+
